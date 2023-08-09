@@ -353,3 +353,4 @@ MigrationBackup/
 
 local.settings.json
 .telemetry
+*.pack
